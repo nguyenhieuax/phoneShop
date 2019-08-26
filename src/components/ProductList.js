@@ -11,7 +11,6 @@ class ProductList extends Component {
     };
 
     render() {
-        console.log(this.state.product);
         return (
             <React.Fragment>
             

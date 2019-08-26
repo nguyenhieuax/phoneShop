@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import * as React from 'react';
 import CartItem from './CartItem'
 
 export default function CartList ({value}){
