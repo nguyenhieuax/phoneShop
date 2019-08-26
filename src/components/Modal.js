@@ -69,7 +69,7 @@ justify-content: center;
     color:var(--mainYellow);
 }
 
-`;
+`
 
 
 export default Modal;
